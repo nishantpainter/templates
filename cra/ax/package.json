@@ -1,0 +1,26 @@
+{
+  "name": "ax",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "AX base template for CRA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishantpainter/templates.git",
+    "directory": "cra"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/nishantpainter/templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
